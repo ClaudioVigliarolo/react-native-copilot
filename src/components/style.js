@@ -1,4 +1,4 @@
-New// @flow
+// @flow
 import { StyleSheet } from 'react-native';
 
 export const STEP_NUMBER_RADIUS: number = 14;
