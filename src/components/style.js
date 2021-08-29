@@ -1,4 +1,4 @@
-// @flow
+New// @flow
 import { StyleSheet } from 'react-native';
 
 export const STEP_NUMBER_RADIUS: number = 14;
@@ -50,7 +50,7 @@ export default StyleSheet.create({
     borderWidth: 2,
     borderRadius: STEP_NUMBER_RADIUS,
     borderColor: '#FFFFFF',
-    backgroundColor: '#27ae60',
+    backgroundColor: 'orange',
   },
   stepNumberText: {
     fontSize: 10,
@@ -61,7 +61,7 @@ export default StyleSheet.create({
     padding: 10,
   },
   buttonText: {
-    color: '#27ae60',
+    color: 'orange',
   },
   bottomBar: {
     marginTop: 10,
@@ -84,3 +84,4 @@ export default StyleSheet.create({
     right: 0,
   },
 });
+
